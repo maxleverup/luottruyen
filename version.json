@@ -1,0 +1,6 @@
+{
+  "versionCode": 20,
+  "versionName": "v20",
+  "releaseNotes": "- Thêm bộ lọc (rating, chap, thể loại)\n- Nút tìm chương trong detail",
+  "apkUrl": "https://github.com/maxleverup/luottruyen/releases/download/v20/app-release.apk"
+}
