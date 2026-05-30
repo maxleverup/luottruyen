@@ -1,5 +1,5 @@
 {
-  "versionCode": 36,
-  "releaseNotes": "-Thêm số hiệu phiên bản ở header , trang trí cho credit của developer",
-  "apkUrl": "https://github.com/maxleverup/luottruyen/releases/download/v36/app-release.apk"
+  "versionCode": 39,
+  "releaseNotes": "-Bản vá hỗ trợ load các trang truyện với độ phân giải cực đại",
+  "apkUrl": "https://github.com/maxleverup/luottruyen/releases/download/v39/app-release.apk"
 }
