@@ -1,5 +1,5 @@
 {
-  "versionCode": 26,
-  "releaseNotes": "-Xóa login bắt buộc",
-  "apkUrl": "https://github.com/maxleverup/luottruyen/releases/download/v26/app-release.apk"
+  "versionCode": 34,
+  "releaseNotes": "-Làm lại cơ chế tối ưu cache , fix bug đã đọc không hiện ở trang mô tả ",
+  "apkUrl": "https://github.com/maxleverup/luottruyen/releases/download/v34/app-release.apk"
 }
