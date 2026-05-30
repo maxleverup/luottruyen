@@ -1,5 +1,5 @@
 {
-  "versionCode": 40,
-  "releaseNotes": "-Bản vá hỗ trợ load các trang truyện với độ phân giải cực đại",
-  "apkUrl": "https://github.com/maxleverup/luottruyen/releases/download/v40/app-release.apk"
+  "versionCode": 41,
+  "releaseNotes": "-Bản vá hỗ trợ load các trang truyện với độ phân giải cực đại, Fix check update vô tội vạ",
+  "apkUrl": "https://github.com/maxleverup/luottruyen/releases/download/v41/app-release.apk"
 }
