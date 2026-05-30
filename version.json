@@ -1,5 +1,5 @@
 {
-  "versionCode": 35,
-  "releaseNotes": "-Làm lại cơ chế tối ưu cache, thêm cơ chế auto check update , fix bug đã đọc không hiện ở trang mô tả ",
-  "apkUrl": "https://github.com/maxleverup/luottruyen/releases/download/v35/app-release.apk"
+  "versionCode": 36,
+  "releaseNotes": "-Thêm số hiệu phiên bản ở header , trang trí cho credit của developer",
+  "apkUrl": "https://github.com/maxleverup/luottruyen/releases/download/v36/app-release.apk"
 }
