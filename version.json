@@ -1,5 +1,5 @@
 {
-  "versionCode": 34,
+  "versionCode": 36,
   "releaseNotes": "-Làm lại cơ chế tối ưu cache , fix bug đã đọc không hiện ở trang mô tả ",
   "apkUrl": "https://github.com/maxleverup/luottruyen/releases/download/v34/app-release.apk"
 }
