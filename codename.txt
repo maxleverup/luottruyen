@@ -1,1 +1,200 @@
-L;Vua bất tử; Vua của bạn chỉ có thể bị ăn khi toàn bộ quân cờ còn lại của bạn đã bị tiêu diệt hết .
+L;Vua bất tử;Vua của bạn chỉ có thể bị ăn khi toàn bộ quân cờ còn lại của bạn đã bị tiêu diệt hết
+L;Giáp máy kỵ sĩ;Tất cả quân mã của bạn vừa di chuyển được như mã vừa di chuyển được như xe trong suốt ván cờ
+L;Gương sao chép;Chọn và sao chép tối đa hiệu ứng 2 lá bài của đối thủ vào lá này .
+L;Đội quân huyền thoại;Khi tốt hạ địch , bạn nhận thêm 1 lượt đi bổ sung .
+L;Giày bay;Các quân cờ của bạn có thể di xuyên qua nhau và ô bẫy
+L;Úp rổ lên đầu;Chọn 1 quân cờ của kẻ địch , quân cờ đó không thể di chuyển trong suốt ván đấu , nếu như quân cờ bị úp rổ bị hạ, có thể tái kích hoạt.
+L;Ôm bom cảm tử;Chọn 1 quân cờ của bạn , khi quân đó chết , toàn bộ quân cờ của bạn và đối thủ trong bán kính 2 ô sẽ bị triệt hạ.
+L;Xe đại bác;Xe có thể triệt hạ kẻ địch ngay cả khi chúng đứng sau 1 quân cờ khác .
+L;Nữ hoàng chiến binh;Thay thế 1 quân hậu bằng quân hậu tối thượng. Quân hậu tối thượng có thể di chuyển và ăn trong phạm vi 2 ô xung quanh nó .
+L;Thiên biến vạn hóa;Vua có thể đi như xe hoặc mã hoặc tượng .
+L;Máy gacha;Khi đánh bại hậu hoặc vua của địch , lập tức rút thêm 1 lá bài ngẫu nhiên .
+L;Cộng hưởng sinh mệnh;Hậu và vua của bạn được chia sẻ năng lực cho nhau , vua có thể di chuyển như hậu , nhưng hậu cũng mang trọng trách làm vua , đối thủ cần phải hạ vua cả hậu để chiến thắng
+L;Mũi tên cupid;Chọn 1 quân bên phe ta và 2 quân phe địch ( trừ vua ) , nếu quân cờ đó chết , chiếm quyền sở hữu 2 quân đó .
+L;Tướng đa thê;Bắt đầu với 3 quân hậu , nhưng hậu chỉ có thể di chuyển trong phạm vi 4 ô.
+L;Di hình hoán vị;Chọn 1 quân cờ , khi quân cờ đó vị tấn công , thay vì vô mộ , quân cờ sẽ dịch chuyển sang vị trí cách ô nó bị ăn 1 ô , tối đa 3 lần trong 1 trò chơi .
+L;Sinh sôi nảy nở;Nếu quân cờ vua và hậu đứng cạnh nhau , bạn có thể chọn bỏ qua lượt để đặt thêm 1 quân tốt lên bàn cờ trong phạm vi nửa sân mình .
+L;Lễ hội chiến thắng;Khi quân tốt của bạn ăn 1 quân không phải tốt của đối thủ , phong cấp quân tốt thành quân cờ đó , giới hạn 3 lần trong 1 trò chơi .
+L;Hào nước;Đối thủ không thể triệt hạ cờ của bạn nếu quân cờ của họ không nằm ở phía bên nửa sân của bạn .
+L;Mùa hoa nở;Trước khi trò chơi bắt đầu ,chọn 3 quân trên sân bạn ,  2 quân chết đầu tiên, sẽ được hồi sinh tại vị trí ban đầu của chúng trên bàn cờ và phong cấp .
+L;Quỹ đền bù;Chọn 1 binh chủng trên sân bạn , mỗi khi 2 quân của binh chủng đó chết , bạn nhận được 1 quân cờ bổ sung , có thể hạ quân cờ trong phạm vi sân phe mình , hạ cờ tính là 1 lượt .
+E;Hoa hồng đen;Nếu quân hậu đang đe dọa nhiều hơn 2 quân trên sân , đối thủ không thể di chuyển những quân trong bán kính 1 ô xung quanh quân hậu
+E;Đào quân bất hợp pháp;Trước khi trò chơi bắt đầu , chọn và chiếm hữu 1 quân của phe địch (trừ hậu ) , mang về sân phe ta .
+E;Cựu chiến binh trở lại;Mỗi khi phe ta mất đi 5 quân tốt, mang trở lại 1 quân tốt lên sân phe ta và phong cấp cho nó .
+E;Lệnh giải ngũ giả mạo;Trước khi trò chơi bắt đầu , chọn 1 trong 3 binh chủng tượng , xe ,mã của kẻ địch , quân chủng đó không thể tham gia trò chơi này.
+E;Pháo hoa cải cải tiến;Tất cả quân tốt có thể tấn công kẻ địch ngay cả khi giữ nguyên vị trí , tấn công từ xa cũng được tính là 1 lượt đi .
+E;Lính bắn tỉa;Số quân tượng của bạn giảm đi 1 , nhưng tất cả quân tượng có thể tấn công từ xa .
+E;Vượt giới hạn;Chọn 1 binh chủng trên sân , binh chủng đó có thể đi 2 lần liên tiếp nếu muốn , nhưng binh chủng đó không thể di chuyển trong lượt tiếp theo của bản thân .
+E;Lễ tưởng niệm;Nếu 1 quân không phải tốt của phe ta bị giết , có thể chọn để đối thủ không thể tấn công quân mình trong lượt sau ,tối đa 3 lần 1 trong trò chơi .
+E;Điệp viên hai mang;Có thể chọn 1 quân bên phe địch trừ hậu và vua , bạn có thể chiếm quyền điều khiển quân đó bất kì lúc nào bạn muốn nhưng chỉ trong trong 1 lượt duy nhất trong cả trò chơi
+E;Phản ứng hóa học;Trước khi trò chơi bắt đầu , bạn có thể chọn mỗi cặp 3 quân tốt để đổi lấy 1 quân xe/tượng/mã .
+E;Lai tạo;Bạn có thể chọn các cặp 2 quân đứng cạnh nhau tạo thành 1 quân cờ đặc biệt sở hữu đặc tính của cả tính , chỉ được dùng trước khi trò chơi bắt đầu .
+E;Đứng đầu chiến tuyến;Quân tốt ở vị trí cao nhất của phe ta trên bản cờ không thể bị giết .
+E;Đẩy lính vào chỗ chết;Nếu quân của đối thủ đang đe dọa nhiều quân cờ , quân tốt sẽ là mục tiêu ưu tiên chết trước .
+E;Quân trung lập;Chọn 1 binh chủng trên sân , toàn bộ quân cờ thuộc binh chủng này của 2 bên không thể tấn công lẫn nhau .
+E;Mã khải hoàn;Mỗi khi quân mã rời khỏi vị trí ban đầu của chúng , quân mã có thể đi thêm 1 lượt nữa .
+E;Tiêm kích;Khi quân tượng đang đe dọa mục tiêu , thay vì trưc tiếp tấn công , có thể để quân tượng khác tấn công vào vị trí đó .
+E;Hoàng đế trở về;Khi vua rời khỏi vị trí ban đầu , có thể chọn dịch chuyển về vị trí ban đầu nếu muốn , việc dịch chuyển tính là 1 lượt đi .
+E;Vương miện băng giá;Không có bất kì quân cờ nào của kẻ địch của thể tấn công trong phạm vi 2 ô xung quanh vua .
+E;Trở về từ cõi chết;Chọn 1 trong 3 binh chủng mã/tượng/xe , nếu 1 quân chết đi và trong mộ có 1 quân khác cũng binh chủng , thay vì chết, quân đó sẽ hồi sinh tại vị trí ban đầu của nó .
+E;Danh tính giả;Chọn 1 binh chủng trên sân của bạn , đổi tên binh chủng đó sang 1 loại 1 chủng khác , những binh chủng này không sở hữu khả năng di chuyển của binh chủng gốc .
+E;Tái sinh phượng hoàng;Khi hậu của bạn bị ăn, ngay lập tức triệu hồi lại hậu đó tại vị trí ban đầu trên bàn cờ
+E;Khiên bất hoại;Chọn 1 quân cờ bất kỳ của bạn trừ hậu và vua, quân đó không thể bị ăn .
+E;Cổng dịch chuyển;Chọn 2 ô trên bàn cờ , khi 1 quân cờ của bạn đi vào thì sẽ đi ra ở ô còn lại
+E;Triệu hồi vợ hai;Thêm 1 quân hậu thứ hai vào bất kỳ ô trống nào trong sân của bạn, quân này tồn tại vĩnh viễn cho đến khi bị ăn
+E;Liên kích;Khi tượng của bạn hạ kẻ địch trên 1 ô trắng , nhận thêm 1 lượt bổ sung .
+E;Ngục tối;Chọn 1 vùng 2x2 bất kỳ trên bàn cờ, tất cả quân địch trong vùng đó không thể thoát ra trong 5 lượt tiếp theo của kẻ địch
+E;Lưỡi kiếm song sinh;Nếu hậu của bạn di chuyển thêm 1 lần nữa sau khi triệt hạ kẻ địch , cộng dồn 2 lần liên tiếp .
+E;Sấm sét đánh kẻ cô đơn;Chọn và triệt hạ 1 quân cờ của kẻ địch nếu trong phạm vi 1 ô xung quanh nó không có cờ , tối đa 3 lần 1 ván đấu .
+E;Chiếu truyền ngôi;Khi vua chết , quân cờ gần nhất sẽ mang trọng trách làm vua nhưng vẫn giữ năng lực gốc của nó .
+E;Kế hoạch rút lui;Khi quân hậu của đối thủ hạ quân cờ phe ta , bạn được đi thêm 1 lượt .
+E;Pháo đài bất bại;Chọn 1 vùng 3x3 quanh vua của bạn, mọi quân địch không thể tiến vào vùng này trong 3 lượt
+E;Quân đội bổ sung;Bạn nhận được thêm 1 mã , 1 tượng , 1 tốt , và có thể hạ cờ trong phạm vi nửa sân cờ bên bạn , hạ cờ cũng được tính là 1 lần đi .
+E;Kỵ binh hùng mạnh;Tất cả quân mã của bạn có thể nhảy 2 lần trong cùng 1 lượt và được phép ăn quân ở cả 2 điểm dừng
+E;Trung quân vệ vua;Nếu có bất kì một quân cờ ở bên cạnh vua , vua không thể bị chọn làm mục tiêu .
+E;Năng lượng hỗn loạn;Chọn và di chuyển 1 quân cờ của kẻ địch , tối đa 2 lần , không tính là 1 lượt đi .
+E;Tổng phản công;Ngay khi đối thủ ăn bất kỳ quân nào của bạn, bạn được đi liên tiếp 2 nước tấn công mà không mất lượt
+E;Giáp gai;Phạm vi ăn của tốt mở rộng ra bán kính 1 ô xung quanh .
+E;Phong cấp kép;Khi một con tốt được phong cấp , chọn và phong cấp 1 con tốt khác .
+E;Cơ hội lên chức;Con cờ đầu tiên đi đến hàng cuối của kẻ địch nhận được phong cấp.
+E;Đột kích bất ngờ;Khi trò chơi bắt đầu  , bạn có thể đi ba lượt liên tiếp .
+R;Lâu đài vững chãi;Tại ô mà quân xe của bạn bị ăn, ô đó trở thành ô bảo vệ , quân cờ của bạn bước vào ô này sẽ không bị ăn trong lượt tiếp theo.
+R;Tượng phi thường;Tại ô mà tượng bị ăn , ô đó trở thành ô bẫy , ô bẫy sẽ giam bất kì quân cờ của đối thủ đi vào trong 1 lượt .
+R;Thiên lý mã;Quân mã của bạn có thể chọn di thêm 1 ô bổ sung về các hướng ở điểm cuối của đường đi .
+R;Công thủ toàn diện;Tốt có thể đi và ăn lùi .
+R;Đòn phản công;Mỗi khi 1 quân của bạn bị ăn trong lượt này, bạn ngay lập tức được di chuyển thêm 1 quân cờ khác
+R;Tầm nhìn xuyên suốt;Quân tượng của bạn có thể nhảy qua tối đa 2 quân cờ bất kỳ khi di chuyển nhưng không thể tấn công trong lượt đó .
+R;Triệu hồi kỵ binh;Đưa tối đa 2 quân mã đã bị ăn trở lại bất kỳ ô trống nào trong phạm vi nửa sân của bạn
+R;Phá phong tuyến;Chọn 1 hàng ngang của đối thủ, tất cả quân tốt địch trên hàng đó bị đẩy lùi 2 ô về phía sau ngay lập tức
+R;Cướp vợ;Khi quân hậu của đối thủ bị hạ , bạn nhận được 1 quân hậu bổ sung , có thể hạ cờ trong phạm vi sân phe ta , hạ cờ cũng tính là 1 nước đi.
+R;Rào chắn;Chọn tối đa 3 ô và đặt rào chắn trên đó , bạn và đối thủ không thể đi thẳng qua ô này nếu như không có kĩ khả năng vượt chướng ngại vật.
+R;Đường hầm bí mật;Khi các quân cờ ở vị trí bắt đầu và tốt vẫn ở trong hàng ,các quân cờ của bạn có thể đi xuyên qua quân tốt về phía trước 1 ô .
+R;Tốt cảm tử;Khi quân tốt của bạn bị ăn bởi tốt của đối thủ, quân ăn tốt đó bị hạ ngay lập tức .
+R;Xe cứu trợ lưu động;Quân xe của bạn không thể bị ăn , nhưng cũng không thể ăn cờ của địch .
+R;Vua lưu động;Vua của bạn có thể di chuyển 2 ô theo bất kỳ hướng nào thay vì 1 ô .
+R;Nhân bản chiến binh;Chọn 1 quân tốt của bạn, tạo thêm 2 bản sao tốt tại 2 ô trống kề bên ngay lập tức
+R;Kết hợp sức mạnh;Chọn 2 quân tốt kề nhau của bạn, 2 quân đó hợp nhất thành 1 quân mã và tồn tại vĩnh viễn cho đến khi bị ăn
+R;Cơn thịnh nộ;Nếu đối thủ vừa ăn hậu của bạn, bạn ngay lập tức được đi 3 lượt liên tiếp để phản công
+R;Phong tỏa;Chọn 1 lá bài bên đối thủ , vô hiệu hóa nó đến khi trò chơi kết thúc .
+R;Mã chở vua;Quân mã có thể tiến đến vị trí của quân vua và hợp thành quân cờ vua trên ngựa , vua trên ngựa vừa là vua vừa là mã .
+R;Vinh quy bái tổ;Khi 1 quân được phong cấp , bạn nhận thêm 3 quân tốt  bổ sung ngoài ván cờ , có thể hạ cờ trong phạm vi sân phe ta , hạ cờ cũng tính là 1 lượt đi
+R;Triệu hồi xe chiến;Đưa tất cả quân xe đã bị ăn của bạn trở lại tại 2 góc gần nhất còn trống trên sân bạn
+R;Đoàn kết sắt đá;Nếu 4 quân tốt hoặc nhiều hơn đứng kề nhau trên cùng 1 hàng , chúng không thể bị ăn .
+R;Máu trả máu;Nếu trong quân cờ của bị ăn 2 lượt liên tiếp , triệt hạ 1 quân cờ ngẫu nhiên của địch ( trừ vua và hậu ) .
+R;Cơ động thần tốc;Di chuyển bất kỳ 3 quân cờ nào của bạn mỗi quân 1 ô trong cùng 1 lượt mà không tốn thêm lượt
+R;Bão tuyết;Tất cả quân địch đang ở nửa sân của bạn không thể di chuyển trong 2 lượt tiếp theo .
+R;Lưỡi hái tử thần;Chọn 1 quân tốt của bạn, quân đó có thể ăn theo hướng chéo trong phạm vi 3 ô .
+R;Quân trang dự bị;Chọn 1 ô bên sân địch , khi quân cờ của bạn di chuyển đến ô đó , nhận được quyền đặt 2 ô bảo vệ ngay lập tức . Hiệu ứng kích hoạt 1 lần
+R;Đột phá phòng tuyến;Chọn 1 quân tốt của bạn, tốt đó đi thẳng 3 ô và bỏ qua tất cả quân chắn đường ngay lập tức .Hiệu ứng kích hoạt 1 lần
+R;Lời trăn trối;Khi hậu của bạn bị ăn , quân ăn hậu sẽ bị úp rỗ vĩnh viễn .
+R;Đi trước 1 bước;Khi trò chơi bắt đầu , toàn bộ tốt tiến lên 1 hàng .
+R;Hỏa tiễn hi sinh;Khi xe ở phía bên cạnh 1 quân cờ , thì có thể bắn quân cờ đó theo 1 đường thẳng , nếu trúng quân cờ của địch thì cả hai quân cùng bị diệt , bắn hỏa tiễn cũng được coi là 1 lượt đi
+R;Lời đồn;Chọn 1 binh chủng , khi 1 quân thuộc chủng đó chết đi ,tất cả quân thuộc binh chủng đó trên sân 2 bên không thể di chuyển trong lượt tiếp theo
+R;Con dao 2 lưỡi;Trao 1 cây dao cho 1 quân trên bàn cờ, nó sẽ mang toàn bộ năng lực của hậu , nhưng sẽ chết ngay khi giết quân đầu tiên
+R;Súng săn đời cũ;Chọn 1 quân trên bàn cờ , khi quân đó hạ 1 quân cờ khác , có thể đi thêm 1 lượt , tuy nhiên phải lắc xúc xắc khi tấn công ,nếu số bé hơn 4 thì tấn công thất bại và bạn kết thúc lượt .
+R;Đổi trắng thay đen;Hoán đổi vị trí các quân sang các ô ở vi trí bên cạnh (từ ô trắng thành ô đen hoặc ngược lại) của tối đa 3 ô bất kỳ trên bàn cờ, khiến đường đi của tượng địch bị chệch hướng.
+R;Vết nứt không gian;Chọn 1 ô trống trên bàn cờ, ô đó biến thành hố đen. Bất kỳ quân cờ nào (kể cả phe ta) đi ngang qua hoặc dừng lại ở ô này đều bị biến mất khỏi ván đấu.
+R;Tượng mù hướng;Chọn 1 quân tượng của đối thủ, trong 3 lượt tiếp theo quân tượng này chỉ có thể đi chéo tiến lên phía trước chứ không thể đi lùi.
+R;Đảo chiều vương bửu;Khi đối thủ kích hoạt hiệu ứng của 1 lá bài tác động lên quân cờ của bạn, bạn có thể lập tức chuyển mục tiêu chịu ảnh hưởng đó sang một quân cờ khác .
+R;Xiềng xích linh hồn;Chọn 2 quân cờ bất kỳ trừ vua và hậu của đối thủ. Khi một trong hai quân bị triệt hạ, quân còn lại cũng tự động bị tiêu diệt theo.
+R;Nhập thành giả tạo;Ép buộc quân vua và quân xe của đối thủ đổi vị trí cho nhau 1 lần duy nhất, bất kể trước đó chúng đã di chuyển hay chưa.
+R;Vàng của kẻ khờ;Biến 1 quân tốt của bạn thành một quân hậu giả. Quân hậu này có thể đi như hậu nhưng không thể ăn cờ của địch và sẽ biến mất sau 2 lượt.
+R;Bẫy rập đầm lầy;Biến 3 ô bất kỳ ở nửa sân của bạn thành đầm lầy. Quân địch đi vào sẽ bị giảm tầm di chuyển xuống tối đa 1 ô trong suốt thời gian ở trong đó.
+R;Mã đạp nguyên thuỷ;Chọn 1 quân mã của bạn, lượt tiếp theo quân mã này nhảy đến đâu sẽ phá hủy luôn ô cờ đó, ô bị phá hủy không ai có thể đứng vào được nữa.
+R;Mưa tên phòng thủ;Khi đối thủ đưa từ 3 quân cờ tiến vào nửa sân của bạn, kích hoạt mưa tên tiêu diệt ngay lập tức quân cờ có giá trị thấp nhất trong số đó.
+R;Khiên phản đòn;Trao khiên cho 1 quân cờ của bạn. Khi quân này bị ăn, quân cờ vừa tấn công nó sẽ bị đẩy lùi về vị trí xuất phát ban đầu ở hàng 1 hoặc hàng 8.
+R;Vương bài hộ giá;Khi vua của bạn bị chiếu, ngay lập tức hồi sinh 1 quân tốt đã chết ngay trước mặt vua để đỡ đòn (tối đa 1 lần một ván).
+R;Đồng hóa binh chủng;Chọn 1 quân tượng và 1 quân mã của bạn, hoán đổi kỹ năng di chuyển của hai quân này cho nhau trong 3 lượt tiếp theo.
+R;Thuế thân;Mỗi khi đối thủ muốn ăn một quân cờ của bạn (trừ tốt), đối thủ bắt buộc phải tự hủy 1 quân tốt của họ để làm lệ phí.
+R;Ảo ảnh trận pháp;Hoán đổi vị trí của tất cả các quân tốt hiện có của bạn với các quân tốt của đối thủ trên cùng một cột dọc.
+R;Lá chắn từ tính;Chọn 1 quân xe của bạn, tạo ra một vùng từ trường bán kính 1 ô xung quanh nó. Quân địch không thể đi xuyên qua vùng này.
+R;Khúc ca hồi sinh;Khi quân mã đầu tiên của bạn bị tiêu diệt, lập tức hồi sinh nó tại một ô ngẫu nhiên thuộc hàng xuất phát của bạn.
+R;Tế đàn hiến tế;Tự hủy 2 quân tốt của bạn để lập tức hồi sinh lại 1 quân Xe hoặc Tượng đã bị ăn trước đó.
+R;Ngựa ô nổi loạn;Bạn có thể chọn nước đi của nó trong lượt tiếp theo và đối thủ phải tuân theo , kích hoạt 1 lần .
+R;Hợp đồng ma quỷ;Chọn 1 quân cờ của bạn, nó sẽ không thể bị ăn trong 3 lượt, nhưng sau khi hết 3 lượt nó sẽ tự động bị hiến tế và biến mất.
+R;Gió lốc sa mạc;Đẩy toàn bộ các quân cờ đang đứng ở 2 cột rìa (cột A và cột H) dịch chuyển vào trong 1 cột dọc ngay lập tức.
+R;Mượn gió bẻ măng;Nếu đối thủ sử dụng một lá bài tăng lượt đi, bạn cũng ngay lập tức nhận được 1 lượt đi bổ sung ngay sau khi lượt của đối thủ kết thúc.
+R;Sự phán xét cuối cùng;Nếu ván đấu kéo dài quá 30 lượt mà chưa phân thắng bại, lập tức tiêu diệt toàn bộ các quân cờ trên sân của cả hai bên ngoại trừ Vua và Hậu.
+R;Giậm chân tại chỗ;Chọn 1 quân cờ bất kỳ của bạn, quân cờ đó có thể dùng 1 lượt đi để đứng yên tại vị trí cũ để bỏ qua lượt hợp lệ.
+R;Quân cờ bóng ma;Chọn 1 quân cờ đã bị ăn của bạn, tạo ra một chiếc bóng của nó trên bàn cờ. Chiếc bóng này có thể di chuyển để chắn đường quân địch nhưng không thể ăn cờ và sẽ tan biến nếu bị tấn công.
+R;Tượng đài kiên cố;Chọn 1 quân tốt của bạn, trong 3 lượt tiếp theo nó không thể di chuyển và cũng không thể bị ăn, trở thành một chướng ngại vật vững chắc chặn đứng mọi đường tấn công thẳng hoặc chéo của đối thủ.
+C;Sắp xếp đội hình;Trước khi ván cờ bắt đầu, bạn được di chuyển vị trí của tối đa 4 quân tốt trong phạm vi nửa sân mình
+C;Tiên tri ngắn hạn;Bạn được phép đoán nước quân cờ tiếp theo bị ăn của bản thân , nếu đoán đúng , bạn nhận được 1 lượt đi bổ sung .
+C;Bình tĩnh tuyệt đối;Hủy bỏ hoàn toàn hiệu ứng nhận được từ lá bài của 1 quân cờ trên sân đối thủ , kích hoạt 1 lần duy nhất .
+C;Tốt tiên phong;Chọn 1 quân tốt bất kỳ của bạn, tốt đó tiến thẳng 3 ô kể cả khi đã từng di chuyển trước đó
+C;Số lượng hơn chất lượng;Bạn bắt đầu với 4 quân xe thay vì 2 , nhưng quân xe của bạn chỉ có thể ăn các quân ở rìa bàn cờ .
+C;Tứ hợp viện;Nếu bạn có cờ ở 4 góc của bàn cờ , lập tức chọn và chiếm quyền 1 quân của đối thủ vĩnh viễn . Kích hoạt 1 lần duy nhất .
+C;Lệnh rút lui an toàn;Di chuyển bất kỳ 2 quân cờ của bạn đang bị tấn công về vị trí xuất phát của chúng .Kích hoạt 1 lần duy nhất .
+C;Gia cố thành lũy;Nhà vua của bạn có thể thực hiện nhập thành kể cả khi đã từng di chuyển 1 lần và xe chưa di chuyển
+C;Áo giáp tạm thời;Chọn 2 quân cờ bất kỳ của bạn, trong lượt này , 2 quân đó không thể bị tấn công . Kích hoạt 1 lần .
+C;Chiến thuật đánh lạc hướng;Nếu vua,hậu và nhiều quân cờ đang trong phạm vi tấn công của kẻ địch , quân cờ của đối thủ không được ăn vua hoặc hậu .
+C;Hành quân nhanh;Quân xe của bạn được di chuyển 2 lần liên tiếp trong cùng 1 lượt nhưng không được ăn quân ở lần di chuyển đầu
+C;Mũi nhọn tấn công;Quân tượng của bạn có thể di chuyển theo đường thẳng ngang hoặc dọc thay vì đường chéo trong phạm vi 2 ô
+C;Kỵ sĩ tuần tra;Quân mã của bạn có thể di chuyển tuần tra đến bất kỳ ô nào trong phạm vi 2 ô xung quanh thay vì phải theo chữ L , nhưng không thể tấn công khi đi tuần tra .
+C;Rào cản tạm thời;Mã của đối thủ không thể đi xuyên qua tốt của bên bạn được nữa .
+C;Gọi viện binh;Đưa tối đa 2 quân tốt đã bị ăn trở lại tại bất kỳ ô trống nào ở hàng xuất phát của bạn
+C;Ép buộc di chuyển;Chỉ định 1 quân cờ cụ thể của đối thủ, đối thủ bắt buộc phải di chuyển đúng quân đó trong lượt tiếp theo , nếu quân cờ không thể di chuyển , bạn nhận 1 lượt đi bổ sung . Kích hoạt 1 lần .
+C;Đổi vị trí;Hoán đổi vị trí của vua và 1 quân cờ bất kỳ khác của bạn miễn là ô đó hiện đang an toàn .Kích hoạt 1 lần
+C;Hàng phòng ngự;Di chuyển tất cả quân tốt của bạn đang ở hàng 4 hoặc 5 lùi về hàng 2 hoặc 3 ngay lập tức
+C;Tốt cơ động;Chọn 3 quân tốt của bạn, cả 3 được phép tiến 2 ô cùng một lúc trong lượt này
+C;Vũ điệu kiếm;Hậu của bạn có thể di chuyển theo kiểu nhảy của quân mã thay vì di chuyển thông thường trong 1 lượt
+C;Ám sát góc chéo;Khi quân tốt đạt điều kiện tấn công , nếu như ở đường chéo đó có nhiều quân đứng liền kề nhau , quân tốt  được chọn 1 quân để ăn thay vì ăn quân gần nhất như bình thường.
+C;Xe tốc hành;Quân xe của bạn có thể di chuyển xuyên qua quân đồng minh mà không bị chặn .
+C;Sóng thần;Quân xe của bạn di chuyển thẳng và đẩy tất cả quân địch gặp phải sang 1 bên 2 ô ngay lập tức
+C;Phá phong tỏa;Bất kì quân của bạn đang bị phong tỏa hoặc bị chiếu đều được phép di chuyển tự do trong lượt này .Kích hoạt 1 lần duy nhất .
+C;Binh đoàn tiến công;Nếu bạn còn từ 5 quân tốt trở lên, tất cả tốt được phép di chuyển lên 2 ô thay vì 1 .
+C;Ép góc;Chọn 1 quân cờ ở rìa bàn cờ , đá nó khỏi trò chơi . Kích hoạt 1 lần duy nhất .
+C;Lính viễn chinh;Tốt của bạn có thể đi 3 ô nhưng không thể tấn công .
+C;Liên kết xe;Nếu 2 xe của bạn đang trên cùng 1 hàng hoặc cột, tất cả ô giữa 2 xe đều không thể bị hạ .
+C;Màn chắn mỏng;Bạn bắt đầu với 1 nửa số tốt so với bình thường, nhưng bạn có thể chọn để phong cấp 1 quân thành xe/mã/tượng khi trò chơi bắt đầu.
+C;Vùng kiểm soát;Đánh dấu 1 vùng 3x3 trên sân đối thủ, tất cả quân địch trong vùng không thể di chuyển ra ngoài trong 2 lượt
+C;Hoán đổi cánh;Hoán đổi vị trí của tối đa 3 quân bất kỳ trên cùng 1 hàng ngang của bạn mà không tốn lượt , kích hoạt 1 lần.
+C;Nhập thành khẩn cấp;Nếu vua bị chiếu , lập tức nhập thành mà không tốn lượt .
+C;Cơn gió đổi chiều;Đảo ngược hướng di chuyển bắt buộc của tất cả quân tốt địch trong 2 lượt tiếp theo
+C;Bước nhảy dài;Nước đầu đi của mỗi quân tốt có thể tiến lên 3 ô thay vì 2 ô .
+C;Hiệp ước tạm thời;Chọn 1 quân trên sân 2 bên , khi quân đó bị ăn , 2 bên không thể tấn công lẫn nhau trong lượt tiếp theo .
+C;Phòng thủ toàn diện;Nếu 1 quân tốt của bạn bị ăn , đối thủ không thể ăn thêm 1 quân tốt khác trong lượt tiếp theo .
+C;Người bảo vệ cuối cùng;Nếu bạn chỉ còn vua và 1 quân khác , lập tức phong cấp cho quân đó.
+C;Bù nhìn thế mạng;Chọn 1 quân trên sân của bạn trừ vua và hậu , khi quân đó bị bị tấn công , đổi vị trí nó với quân tốt gần nhất
+C;Hộ vệ hoàng gia;Chọn 2 quân bất kỳ của bạn, đối thủ bắt buộc phải ăn cả 2 quân này trước khi được phép chiếu vua của bạn
+C;Tứ kỵ sĩ khải huyền;Nếu bạn không còn quân tốt và mã , triệu hồi toàn bộ quân mã đã chết , bạn chiếm quyền điều khiển toàn bộ quân mã trên sân 2 bên .
+C;Luân phiên chiến;Nếu có 1 quân tốt chết vào lượt của kẻ địch , trong lượt tiếp theo của phe ta , quân tốt gần nhất tạm thời tăng phạm vi tấn công lên 3 ô .
+C;Lính đào ngũ;Chọn và đào thải tối đa lên đến 3 quân trên sân phe ta .
+C;Vị vua cuối cùng;Nếu trên bàn cờ chỉ còn lại quân vua , vua sẽ nhận được vai trò và quy luật của toàn bộ quân cờ .
+C;Tung xúc xắc;Tung một xúc xắc khi bắt đầu lượt. Nếu số lớn hơn hoặc bằng 4 , bạn có thể di chuyển 1 quân tốt .
+C;Trực giác nhạy bén;Đoán xem đối thủ sẽ di chuyển binh chủng nào (Xe/Mã/Tượng/Hậu) trong lượt tới. Nếu đoán đúng, quân Tốt của bạn được tiến 1 ô miễn phí.
+C;Đổi màu quân cờ;Chọn 1 quân Tượng của bạn, di chuyển vị trí của nó sang 1 ô khác màu ngay trong bán kính 1 ô . Việc này tiêu tốn 1 lượt
+C;Tiếp tế lương thực;Chọn 1 quân cờ bất kỳ. Quân cờ này có thể đi qua toàn bộ ô đặc biệt mà không kích hoạt hiệu ứng .
+C;Hô hào tiến lên;Nếu bạn đang có ít nhất 6 quân Tốt trên sân, tất cả quân Tốt đồng loạt tiến lên 1 ô ngay lập tức nhưng không được phép ăn quân trong nước đi này.
+C;Khiên khích nhẹ;Chọn 1 quân Tốt của đối thủ ở vị trí ban đầu, ép đối thủ phải tiến nó lên 1 ô trong lượt kế tiếp.
+C;Bảo toàn lực lượng;Quân tốt ở vị trí ban đầu có thể lùi xuống 1 ô nếu sân nhà trống
+C;Cơ hội sửa sai;Nếu nước đi vừa rồi của bạn không ăn quân địch, bạn có thể rút lại nước đi đó và chọn một quân cờ khác để di chuyển. Kích hoạt 1 lần duy nhất.
+C;Tầm nhìn hạn chế;Chọn 1 quân Xe của đối thủ, trong 2 lượt tiếp theo, tầm di chuyển tối đa của quân Xe đó bị giới hạn trong vòng 4 ô.
+C;Vết nứt nhỏ;Chọn 1 ô trống trên bàn cờ, biến ô đó thành ô nứt. Quân cờ đầu tiên đứng vào ô này sẽ không thể di chuyển trong 1 lượt, ô nứt biến mất sau đó.
+C;Hào quang hộ vệ;Khi quân Hậu của bạn đứng kề cạnh quân Vua, quân Vua tạm thời không thể bị chiếu bởi các quân cờ Xe, Tượng của đối thủ.
+C;Bàn đạp chiến thuật;Chọn 1 quân cờ của phe ta. Quân Tốt đứng ngay phía sau quân cờ đó có thể nhảy qua đầu nó để tiến lên trước 1 ô.
+C;Thương lượng hòa bình;Cả hai người chơi đều không được phép ăn quân của nhau trong vòng đúng 1 lượt đi tiếp theo. Kích hoạt 1 lần duy nhất.
+C;Hồi mã thương;Quân Mã của bạn có thể di chuyển lùi theo hình chữ L và ăn một quân Tốt nếu quân tốt đó đứng ở điểm đáp, nhưng lượt sau quân Mã này bắt buộc phải đứng yên.
+C;Tốt bọc hậu;Nếu tất cả các quân cờ cấp cao (Xe, Mã, Tượng, Hậu) của bạn đã di chuyển ra khỏi hàng xuất phát, toàn bộ quân Tốt còn lại ở hàng xuất phát tự động tiến 1 ô.
+C;Tráo đổi binh khí;Chọn 1 quân Xe và 1 quân Tượng đứng cạnh nhau của bạn, hoán đổi vị trí của chúng cho nhau mà không tốn lượt. Kích hoạt 1 lần duy nhất.
+C;Thời khắc tăm tối;Vô hiệu hóa toàn bộ kỹ năng nội tại/hiệu ứng ẩn của tất cả các quân cờ trên sân (chỉ giữ lại cách di chuyển cơ bản của cờ vua) trong 1 lượt.
+C;Tốt viễn chinh;Nếu một quân Tốt của bạn đơn độc tiến vào sâu trong phần sân đối thủ mà không có bất kỳ quân đồng minh nào xung quanh trong bán kính 2 ô, nó được phép di chuyển chéo 1 ô dù không ăn quân.
+C;Chiến thuật hoàn hảo;Nếu bạn xếp được 3 quân Tốt của mình thành một đường chéo thẳng hàng. Lập tức hồi sinh 1 quân Xe đã chết tại hàng xuất phát.
+C;Chiếu bí ngược dòng;Kích hoạt khi quân Vua của bạn đang bị chiếu bởi từ 2 quân cờ địch trở lên cùng lúc. Triệt hạ ngay lập tức 1 trong 2 quân đang chiếu Vua.Kích hoạt 1 lần.
+C;Sự trỗi dậy của Tốt;Nếu trên sân chỉ còn tốt và vua , tất cả tốt còn lại được phong mã .
+C;Liên hoàn kích;Nếu bạn đã hạ địch trong 3 lượt liên tiếp , bạn nhận được 1 lượt bổ sung .
+C;Thập diện mai phục;Nếu vua của kẻ địch bị chiếu bởi đồng thời 4 quân cùng lúc , phe ta thắng .
+C;Vương quốc sụp đổ;Khi quân Hậu của cả hai bên đều bị tiêu diệt trong cùng một lượt đấu . Toàn bộ quân Tốt trên sân của hai bên tự động bị tiêu diệt.
+C;Tử thủ hoàng cung;Khi quân Vua của bạn bị dồn vào 1 trong 4 ô góc của bàn cờ.Vua nhận trạng thái bất tử trong vòng 3 lượt tiếp theo.
+C;Mạng mạch đồng quy;Chỉ khi số lượng quân cờ còn lại trên sân của bạn và đối thủ hoàn toàn bằng nhau (về cả số lượng và chủng loại). Đổi phe điều khiển quân cờ của hai bên cho nhau trong 2 lượt.
+C;Nhà tù;Chọn 1 ô trên sân, quân cờ 2 bên bước vào ô đó không thể tấn công và không thể di chuyển cho đến khi lắc ra số 6 ở đầu mỗi lượt .
+C;Bước đi rụt rè;Chọn 1 quân Hậu . Trong lượt này, quân Hậu chỉ được phép di chuyển tối đa 2 ô.
+C;Phá vỡ xiềng xích;Hủy bỏ hoàn toàn hiệu ứng của một lá bài Thông thường khác đang có hiệu lực áp đặt lên một quân cờ của bạn.
+C;Vết dầu loang;Chọn 1 ô trống trên bàn cờ, biến ô đó thành ô trơn trượt. Quân cờ đầu tiên đi vào ô này bắt buộc phải trượt thêm 1 ô nữa theo đúng hướng vừa di chuyển (hiệu ứng biến mất sau khi kích hoạt).
+C;Chuyển dịch biên cương;Chọn 1 quân tốt của bạn chưa từng di chuyển, dịch chuyển nó sang một ô trống bất kỳ ở cùng hàng ngang nhưng chỉ được phép lệch sang trái hoặc sang phải tối đa 1 cột.
+C;Hoàng hậu băng hạ;Kích hoạt khi quân Hậu của bạn trực tiếp triệt hạ quân Hậu của đối thủTất cả các quân Xe còn lại trên sân của đối thủ sẽ bị khóa chân (không thể di chuyển) trong vòng 2 lượt tiếp theo.
+C;Ấn phong soái;Nếu trên sân bạn có quân tốt được phong cấp và 2 xe vẫn còn sống , tất cả xe của đối thủ không thể di chuyển trong 2 lượt tiếp theo.
+C;Vỏ bọc tạm thời;Chọn 1 quân cờ trên sân của bạn , trong lượt này nó chỉ có thể bị ăn bởi quân tốt . Kích hoạt 1 lần duy nhất .
+C;Tiến thoái lưỡng nan;Chọn 1 quân tốt của đối thủ, trong lượt tiếp theo nó buộc phải đứng yên nếu không có quân nào để ăn, nhưng nếu có quân để ăn thì bắt buộc phải ăn.
+C;Vững bước;Chọn 1 quân tốt trên sân của bạn . Khi quân tốt này bị ăn , bạn nhận được 1 lượt đi bổ sung .
+C;Khổ tận cam lai;Khi quân tốt của bạn ít hơn 3 ,có thể chọn 1 con tốt lập tức tiến lên 3 ô , xuyên thấu tất cả quân cờ đang chắn trước mặt.
