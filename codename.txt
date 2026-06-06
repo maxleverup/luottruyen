@@ -6,7 +6,7 @@ L;Giày bay;Các quân cờ của bạn có thể di xuyên qua nhau và ô bẫ
 L;Úp rổ lên đầu;Chọn 1 quân cờ của kẻ địch , quân cờ đó không thể di chuyển trong suốt ván đấu , nếu như quân cờ bị úp rổ bị hạ, có thể tái kích hoạt.
 L;Ôm bom cảm tử;Chọn 1 quân cờ của bạn , khi quân đó chết , toàn bộ quân cờ của bạn và đối thủ trong bán kính 2 ô sẽ bị triệt hạ.
 L;Cách sơn đả ngưu;Xe có thể nhảy xuyên qua 1 quân cờ để tấn công.
-L;Nữ hoàng chiến binh;Thay thế 1 quân hậu bằng quân hậu tối thượng. Quân hậu tối thượng có thể di chuyển và ăn trong phạm vi 2 ô xung quanh nó .
+L;Không góc chết;Quân hậu có thể di chuyển và ăn trong phạm vi 2 ô xung quanh nó nếu không bị chặn.
 L;Thiên biến vạn hóa;Vua có thể đi như xe hoặc mã hoặc tượng .
 L;Máy gacha;Khi đánh bại hậu hoặc vua của địch , lập tức rút thêm 1 lá bài ngẫu nhiên .
 L;Cộng hưởng sinh mệnh;Hậu và vua của bạn được chia sẻ năng lực cho nhau , vua có thể di chuyển như hậu , nhưng hậu cũng mang trọng trách làm vua , đối thủ cần phải hạ vua cả hậu để chiến thắng
@@ -18,7 +18,7 @@ L;Lễ hội chiến thắng;Khi quân tốt của bạn ăn 1 quân không ph�
 L;Hào nước;Đối thủ không thể triệt hạ cờ của bạn nếu quân cờ của họ không nằm ở phía bên nửa sân của bạn .
 L;Mùa hoa nở;Trước khi trò chơi bắt đầu ,chọn 3 quân trên sân bạn ,  2 quân chết đầu tiên, sẽ được hồi sinh tại vị trí ban đầu của chúng trên bàn cờ và phong cấp .
 L;Quỹ đền bù;Chọn 1 binh chủng trên sân bạn , mỗi khi 2 quân của binh chủng đó chết , bạn nhận được 1 quân cờ bổ sung , có thể hạ quân cờ trong phạm vi sân phe mình , hạ cờ tính là 1 lượt .
-E;Hoa hồng đen;Nếu quân hậu đang đe dọa nhiều hơn 2 quân trên sân , đối thủ không thể di chuyển những quân trong bán kính 1 ô xung quanh quân hậu
+E;Hoa hồng đen;Đối thủ không thể di chuyển những quân trong bán kính 1 ô xung quanh quân hậu
 E;Đào quân bất hợp pháp;Trước khi trò chơi bắt đầu , chọn và chiếm hữu 1 quân của phe địch (trừ hậu ) , mang về sân phe ta .
 E;Cựu chiến binh trở lại;Mỗi khi phe ta mất đi 5 quân tốt, mang trở lại 1 quân tốt lên sân phe ta và phong cấp cho nó .
 E;Lệnh giải ngũ giả mạo;Trước khi trò chơi bắt đầu , chọn 1 trong 3 binh chủng tượng , xe ,mã của kẻ địch , quân chủng đó không thể tham gia trò chơi này.
