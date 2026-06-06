@@ -24,7 +24,7 @@ E;Cựu chiến binh trở lại;Mỗi khi phe ta mất đi 5 quân tốt, mang 
 E;Lệnh giải ngũ giả mạo;Trước khi trò chơi bắt đầu , chọn 1 trong 3 binh chủng tượng , xe ,mã của kẻ địch , quân chủng đó không thể tham gia trò chơi này.
 E;Pháo hoa cải cải tiến;Tất cả quân tốt có thể tấn công kẻ địch ngay cả khi giữ nguyên vị trí , tấn công từ xa cũng được tính là 1 lượt đi .
 E;Lính bắn tỉa;Số quân tượng của bạn giảm đi 1 , nhưng tất cả quân tượng có thể tấn công từ xa .
-E;Vượt giới hạn;Chọn 1 binh chủng trên sân , binh chủng đó có thể đi 2 lần liên tiếp nếu muốn , nhưng binh chủng đó không thể di chuyển trong lượt tiếp theo của bản thân .
+E;Vượt giới hạn;Chọn 1 binh chủng trên sân ,từ giờ binh chủng đó có thể đi 2 lần liên tiếp nếu muốn , nhưng binh chủng đó không thể di chuyển trong lượt tiếp theo của bản thân .
 E;Lễ tưởng niệm;Nếu 1 quân không phải tốt của phe ta bị giết , có thể chọn để đối thủ không thể tấn công quân mình trong lượt sau ,tối đa 3 lần 1 trong trò chơi .
 E;Điệp viên hai mang;Có thể chọn 1 quân bên phe địch trừ hậu và vua , bạn có thể chiếm quyền điều khiển quân đó bất kì lúc nào bạn muốn nhưng chỉ trong trong 1 lượt duy nhất trong cả trò chơi
 E;Phản ứng hóa học;Trước khi trò chơi bắt đầu , bạn có thể chọn mỗi cặp 3 quân tốt để đổi lấy 1 quân xe/tượng/mã .
@@ -56,7 +56,7 @@ E;Năng lượng hỗn loạn;Chọn và di chuyển 1 quân cờ của kẻ đ�
 E;Tổng phản công;Ngay khi đối thủ ăn bất kỳ quân nào của bạn, bạn được đi liên tiếp 2 nước tấn công mà không mất lượt
 E;Giáp gai;Phạm vi ăn của tốt mở rộng ra bán kính 1 ô xung quanh .
 E;Phong cấp kép;Khi một con tốt được phong cấp , chọn và phong cấp 1 con tốt khác .
-E;Cơ hội lên chức;Con cờ đầu tiên đi đến hàng cuối của kẻ địch nhận được phong cấp.
+E;Cơ hội lên chức;2 Con cờ đầu tiên đi đến hàng cuối của kẻ địch nhận được phong cấp.
 E;Đột kích bất ngờ;Khi trò chơi bắt đầu  , bạn có thể đi ba lượt liên tiếp .
 R;Lâu đài vững chãi;Tại ô mà quân xe của bạn bị ăn, ô đó trở thành ô bảo vệ , quân cờ của bạn bước vào ô này sẽ không bị ăn trong lượt tiếp theo.
 R;Tượng phi thường;Tại ô mà tượng bị ăn , ô đó trở thành ô bẫy , ô bẫy sẽ giam bất kì quân cờ của đối thủ đi vào trong 1 lượt .
