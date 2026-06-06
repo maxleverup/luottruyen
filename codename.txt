@@ -5,7 +5,7 @@ L;Đội quân huyền thoại;Khi tốt hạ địch , bạn nhận thêm 1 lư
 L;Giày bay;Các quân cờ của bạn có thể di xuyên qua nhau và ô bẫy
 L;Úp rổ lên đầu;Chọn 1 quân cờ của kẻ địch , quân cờ đó không thể di chuyển trong suốt ván đấu , nếu như quân cờ bị úp rổ bị hạ, có thể tái kích hoạt.
 L;Ôm bom cảm tử;Chọn 1 quân cờ của bạn , khi quân đó chết , toàn bộ quân cờ của bạn và đối thủ trong bán kính 2 ô sẽ bị triệt hạ.
-L;Xe đại bác;Xe có thể triệt hạ kẻ địch ngay cả khi chúng đứng sau 1 quân cờ khác .
+L;Cách sơn đả ngưu;Xe có thể nhảy xuyên qua 1 quân cờ để tấn công.
 L;Nữ hoàng chiến binh;Thay thế 1 quân hậu bằng quân hậu tối thượng. Quân hậu tối thượng có thể di chuyển và ăn trong phạm vi 2 ô xung quanh nó .
 L;Thiên biến vạn hóa;Vua có thể đi như xe hoặc mã hoặc tượng .
 L;Máy gacha;Khi đánh bại hậu hoặc vua của địch , lập tức rút thêm 1 lá bài ngẫu nhiên .
