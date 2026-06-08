@@ -1,6 +1,6 @@
 {
-  "versionCode": 52,
-  "releaseNotes": "-Nâng cấp progress bar từ số trang thành % \n-Cập nhật cơ chế chống trôi nội dung khi thoát ra vào lại\n-Cơ chế lưu truyện giờ đã thông minh hơn",
-  "apkUrl": "https://github.com/maxleverup/luottruyen/releases/download/v52/app-release.apk",
+  "versionCode": 55,
+  "releaseNotes": "-Thêm cơ chế đồng bộ nguồn truyện tự động khi web thay đổi\n-Fix lỗi crash do tràn ram",
+  "apkUrl": "https://github.com/maxleverup/luottruyen/releases/download/v55/app-release.apk",
   "source": "https://luottruyen8.com"
 }
