@@ -1,6 +1,6 @@
 {
-  "versionCode": 55,
-  "releaseNotes": "-Thêm cơ chế đồng bộ nguồn truyện tự động khi web thay đổi\n-Fix lỗi crash do tràn ram",
-  "apkUrl": "https://github.com/maxleverup/luottruyen/releases/download/v55/app-release.apk",
+  "versionCode": 70,
+  "releaseNotes": "-Thêm cơ chế zoom bằng 2 ngón\n-Thêm cơ chế tự kiểm tra chap mới cho truyện đã lưu\n-Fix lỗi không thể trở về chương trước\n-Fix lỗi không thể xuất nhập file.",
+  "apkUrl": "https://github.com/maxleverup/luottruyen/releases/download/v70/app-release.apk",
   "source": "https://luottruyen10.com"
 }
