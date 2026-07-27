@@ -1,6 +1,6 @@
 {
-  "versionCode": 70,
-  "releaseNotes": "-Thêm cơ chế zoom bằng 2 ngón\n-Thêm cơ chế tự kiểm tra chap mới cho truyện đã lưu\n-Fix lỗi không thể trở về chương trước\n-Fix lỗi không thể xuất nhập file.",
-  "apkUrl": "https://github.com/maxleverup/luottruyen/releases/download/v70/app-release.apk",
+  "versionCode": 71,
+  "releaseNotes": "-Sửa lỗi lịch sử truyện không đồng bộ khi web đổi tên miền.\n-Sửa cơ chế zoom 2 ngón để hết bị khựng.",
+  "apkUrl": "https://github.com/maxleverup/luottruyen/releases/download/v71/app-release.apk",
   "source": "https://luottruyen999.com"
 }
