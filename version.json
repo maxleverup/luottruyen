@@ -1,6 +1,6 @@
 {
-  "versionCode": 71,
-  "releaseNotes": "-Sửa lỗi lịch sử truyện không đồng bộ khi web đổi tên miền.\n-Sửa cơ chế zoom 2 ngón để hết bị khựng.",
-  "apkUrl": "https://github.com/maxleverup/luottruyen/releases/download/v71/app-release.apk",
+  "versionCode": 80,
+  "releaseNotes": "-Thêm mốc thời gian cho từng chap.\n-Thêm cơ chế tải/xóa truyện đa luồng. \n-Thêm chức năng đọc bình luận",
+  "apkUrl": "https://github.com/maxleverup/luottruyen/releases/download/v80/app-release.apk",
   "source": "https://luottruyen999.com"
 }
