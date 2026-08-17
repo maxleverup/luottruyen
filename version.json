@@ -1,6 +1,6 @@
 {
-  "versionCode": 80,
-  "releaseNotes": "-Thêm mốc thời gian cho từng chap.\n-Thêm cơ chế tải/xóa truyện đa luồng. \n-Thêm chức năng đọc bình luận",
-  "apkUrl": "https://github.com/maxleverup/luottruyen/releases/download/v80/app-release.apk",
+  "versionCode": 134,
+  "releaseNotes": "-Nâng cấp giao diện.\n-Thêm Darkmode. \n-Sửa cơ chế load truyện \n-Hệ thống quét aura.",
+  "apkUrl": "https://github.com/maxleverup/luottruyen/releases/download/v134/app-release.apk",
   "source": "https://luottruyen999.com"
 }
