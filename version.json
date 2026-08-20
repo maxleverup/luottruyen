@@ -1,6 +1,6 @@
 {
-  "versionCode": 160,
-  "releaseNotes": "-Nâng cấp giao diện .\n-Cơ chế chuyển chap tự động. \n-Fix lỗi bình luận không load hết.",
-  "apkUrl": "https://github.com/maxleverup/luottruyen/releases/download/v160/app-release.apk",
+  "versionCode": 173,
+  "releaseNotes": "-Thêm cơ chế vuốt để chuyển chap \n-Fix lỗi ở nhảy sai chap ở bìa truyện \n-Thêm nút xem bình luận ở cuối mỗi chap.",
+  "apkUrl": "https://github.com/maxleverup/luottruyen/releases/download/v173/app-release.apk",
   "source": "https://luottruyen999.com"
 }
