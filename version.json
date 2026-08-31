@@ -1,6 +1,6 @@
 {
-  "versionCode": 173,
-  "releaseNotes": "-Thêm cơ chế vuốt để chuyển chap \n-Fix lỗi ở nhảy sai chap ở bìa truyện \n-Thêm nút xem bình luận ở cuối mỗi chap.",
-  "apkUrl": "https://github.com/maxleverup/luottruyen/releases/download/v173/app-release.apk",
+  "versionCode": 188,
+  "releaseNotes": "-Giảm 93% dung lượng app \n-Fix lỗi Không hiện đánh giá và view ở các trang  \n-Thêm tính năng bình luận và trả lời comment.",
+  "apkUrl": "https://github.com/maxleverup/luottruyen/releases/download/v188/app-release.apk",
   "source": "https://luottruyen999.com"
 }
