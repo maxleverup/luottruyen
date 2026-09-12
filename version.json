@@ -1,6 +1,6 @@
 {
-  "versionCode": 188,
-  "releaseNotes": "-Giảm 93% dung lượng app \n-Fix lỗi Không hiện đánh giá và view ở các trang  \n-Thêm tính năng bình luận và trả lời comment.",
-  "apkUrl": "https://github.com/maxleverup/luottruyen/releases/download/v188/app-release.apk",
+  "versionCode": 205,
+  "releaseNotes": "-Giờ bạn có thể xem cảm xúc và ảnh động trong comment  \n-Sửa bug lỗi ảnh ở đầu trang và cuối trang.",
+  "apkUrl": "https://github.com/maxleverup/luottruyen/releases/download/v205/app-release.apk",
   "source": "https://luottruyen999.com"
 }
