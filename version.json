@@ -1,6 +1,6 @@
 {
-  "versionCode": 205,
-  "releaseNotes": "-Giờ bạn có thể xem cảm xúc và ảnh động trong comment  \n-Sửa bug lỗi ảnh ở đầu trang và cuối trang.",
-  "apkUrl": "https://github.com/maxleverup/luottruyen/releases/download/v205/app-release.apk",
+  "versionCode": 212,
+  "releaseNotes": "-Sửa lỗi không thể chuyển chap \n-Thêm tính năng tạo bản báo cáo lỗi",
+  "apkUrl": "https://github.com/maxleverup/luottruyen/releases/download/v212/app-release.apk",
   "source": "https://luottruyen999.com"
 }
